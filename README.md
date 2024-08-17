@@ -1,5 +1,5 @@
 # python-advanced-oop-may-2024
-About This repository contains solutions of the exercises from the course "Python Advanced and OOP" at SoftUni
+This repository contains solutions of the exercises from the course "Python Advanced and OOP" at SoftUni
 
 Links to the courses:<br>
 - Python Advanced: https://softuni.bg/trainings/4541/python-advanced-may-2024<br>
