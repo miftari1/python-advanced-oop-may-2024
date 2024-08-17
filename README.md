@@ -5,7 +5,7 @@ Links to the courses:<br>
 - Python Advanced: https://softuni.bg/trainings/4541/python-advanced-may-2024<br>
 - Python OOP: https://softuni.bg/trainings/4542/python-oop-june-2024
 
-Online judge system<br>
+Online judge system:<br>
 - Python Advanced: https://judge.softuni.org/Contests#!/List/ByCategory/209/Python-Advanced-Exercises<br>
 - Python OOP: https://judge.softuni.org/Contests#!/List/ByCategory/210/Python-OOP-Exercises
 
